@@ -1,4 +1,4 @@
-# 🧪 Data Analysis with Python – freeCodeCamp Projects
+# 🧪 Data Analysis with Python – freeCodeCamp Projects 
 
 This repository contains solutions to the required projects for the **freeCodeCamp Data Analysis with Python** certification. Each project demonstrates key skills in:
 
@@ -8,7 +8,7 @@ This repository contains solutions to the required projects for the **freeCodeCa
 - Data visualization using Matplotlib and Seaborn
 
 ## Projects
-1. Mean-Variance-Standard Deviation Calculator
+1. Mean-Variance-Standard Deviation Calculator ✅
 2. Demographic Data Analyzer
 3. Medical Data Visualizer
 4. Page View Time Series Visualizer
